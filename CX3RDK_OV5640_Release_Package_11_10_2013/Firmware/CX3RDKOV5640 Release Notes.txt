@@ -1,0 +1,42 @@
+CX3RDKOV5640 Release Notes:
+
+Build Date		: 11-10-2013
+
+
+1. Supported OS    : Windows
+
+
+1.Formats Supprted : YUY2
+
+
+2.USB 3.0:
+	Preview Resolutions with framerates:
+	1.640x480 - 60fps
+	2.1280x720 - 60fps
+	3.1920x1280 - 30fps
+	4.2592x1944 - 15fps
+	
+	Still Resolution supported:
+	1.2592x1944
+
+
+3.USB 2.0:
+	Resolutions with framerates:
+	1.640x480 - 30fps
+
+
+4.Controls Supported:
+	1.Brightness
+	2.Contrast
+	3.Hue
+	4.Saturation
+	5.Sharpness
+	6.WhiteBalance(Auto+Manual)
+	7.Focus(Auto+Manual)
+	8.Exposure(Auto+Manual)
+
+
+5.Bugs Solved:
+	Bug No : 1194 - Default Saturation value in application is incorrect.
+	Bug No : 1195 - Default White Balance value in application is incorrect.
+	Bug No : 1196 - Live Preview was not restoring in USB 2.0.
